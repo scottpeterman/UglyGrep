@@ -43,7 +43,7 @@ UglyGrep is a desktop application that enables you to perform text searches with
 <div align="center">
   <img src="https://github.com/scottpeterman/UglyGrep/raw/main/screen-shots/search.png" alt="search.png" width="400px">
   <hr>
-  <img src="https://github.com/scottpeterman/UglyGrep/raw/main/screen-shots/viewer.png" alt="viewer.png" width="400px">
+  <img src="https://github.com/scottpeterman/UglyGrep/raw/main/screen-shots/viewer2.png" alt="viewer.png" width="400px">
   
 </div>
 
