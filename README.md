@@ -41,7 +41,9 @@ UglyGrep is a desktop application that enables you to perform text searches with
 ### Screenshots
 
 <div align="center">
-  <img src="https://github.com/scottpeterman/ttpbuilder/raw/main/screen-shots/builder.png" alt="builder.png" width="400px">
+  <img src="https://github.com/scottpeterman/UglyGrep/raw/main/screen-shots/search.png" alt="search.png" width="400px">
+  <hr>
+  <img src="https://github.com/scottpeterman/UglyGrep/raw/main/screen-shots/viewer.png" alt="viewer.png" width="400px">
   
 </div>
 
