@@ -38,6 +38,13 @@ UglyGrep is a desktop application that enables you to perform text searches with
 
 8. **Telemetry**: Observe the number of matches, the number of files scanned, and the time elapsed in the labels at the bottom of the window.
 
+### Screenshots
+
+<div align="center">
+  <img src="https://github.com/scottpeterman/ttpbuilder/raw/main/screen-shots/builder.png" alt="builder.png" width="400px">
+  
+</div>
+
 ### Known Issues
 
 - The application is intended for text-based files and may not work correctly for binary files or exceptionally large files.
